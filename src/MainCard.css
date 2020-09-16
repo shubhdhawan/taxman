@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@800&display=swap');
+
+.image
+{
+    display: block;
+    width: 337px;
+    height: 299px;
+    float: left;
+    background: #FFFFFF;
+   border: 1px solid #E3EAF2;
+   box-sizing: border-box;
+   box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.15);
+   border-radius: 5px;
+}
+
+.card-content
+{
+    display: block;
+    height: 299px;
+    background-color: #a0999d;
+    float: left;
+    width: 370px;
+    background: #FFFFFF;
+    border: 1px solid #E3EAF2;
+    box-sizing: border-box;
+    box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.15);
+    border-radius: 5px;
+}
+
+.heading1
+{
+    font-family: 'Inter', sans-serif;
+    font-size: 30px;
+    line-height: 34px;
+    padding-top: 20px;
+    text-align: center;
+    letter-spacing: 0.833333px;
+    text-transform: uppercase;
+    color: #F88822;
+    font-weight: 800;
+}
+
+.heading2
+{
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    font-size: 24px;
+    line-height: 24px;
+    letter-spacing: 0.666667px;
+    color: #4B4B4B;
+
+}
+
+.info
+{
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 0.5px;
+    color: #4B4B4B;
+    width: 300px;
+    height: 48px;
+    padding-left: 30px;
+}
+
+.btn
+{
+    font-family: 'Inter', sans-serif;
+    display: block;
+    margin-left: 100px;
+    margin-top: 30px;
+    background: #F88822;
+    border: 1px solid #F88822;
+    box-sizing: border-box;
+    border-radius: 31px;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 1.14286px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    width: 169px;
+    height: 40px;
+}
+

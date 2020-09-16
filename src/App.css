@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+
+
+
+.rightside-card
+{
+    background-color: white;
+    margin-top: 40px;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.rightside-card-content
+{
+    display: inline-block;
+}
+
+.row
+{
+    display: block;
+    float: left;
+    margin-top: 30px;
+    margin-left: 20px;
+    width: 40px;
+    height: 32px;
+}
+
+.rightside-card-heading
+{
+    font-family:'Inter', sans-serif; 
+    font-size: 16px;
+    line-height: 24px;
+    text-align: right;
+    letter-spacing: 0.555556px;
+    color: #000000;
+    padding-right: 10px;
+    padding-top: 15px;
+    padding-left: 28;
+    padding-bottom: 10px;
+    margin: 0px;
+    font-weight: 500;
+    display: inline-block;
+}
+
+.rightside-card-detail
+{
+    font-family:'Inter', sans-serif; 
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.416667px;
+    color: #4B4B4B;
+    margin: 0px;
+    padding-left: 29px;
+    width: 146px;
+    height: 40px;
+}
+
+.offers
+{
+    font-family:'Inter', sans-serif; 
+    font-size: 20px;
+    line-height: 30px;
+    display: flex;
+   align-items: center;
+   letter-spacing: 0.3px;
+   color: #000000; 
+   margin-top: 20px;
+   margin-bottom: 20px;
+}
+
